@@ -1,0 +1,13 @@
+<resources>
+    <declare-styleable name="RoundCenterSearchView">
+        <attr name="hint" format="string" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="yourSearchIcon" format="color|reference" />
+        <attr name="radius" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="innerColor" format="color" />
+        <attr name="boundColor" format="color" />
+        <attr name="boundWidth" format="dimension" />
+    </declare-styleable>
+</resources>
